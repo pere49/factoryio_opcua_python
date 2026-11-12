@@ -1,0 +1,6 @@
+*.ipynb
+*.perm
+*.der
+*.json
+.venv
+_pycache__
